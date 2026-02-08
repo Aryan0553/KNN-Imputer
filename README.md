@@ -18,6 +18,7 @@ The model is evaluated using **accuracy score**.
 
 ---
 
+
 ## 📂 Dataset
 
 - **Source**: Titanic Dataset
